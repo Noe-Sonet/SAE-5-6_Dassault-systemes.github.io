@@ -1,18 +1,17 @@
-# SAÉ S1. 05-06 - Groupe 18
+# SAÉ S1. 05-06 - Groupe 18 
 
-## Dassault Systèmes
+## Dassault Systèmes 
 
-[Dassault-systemes](https://github.com/Noe-Sonet/Dassault-systemes/)
+[Dassault-systemes](https://github.com/Noe-Sonet/Dassault-systemes/) 
 
-## Membres du groupe :
+## Membres du groupe : 
 
-Etudiant 1 (référent du groupe) :  [RUYER Benjamin](mailto:login@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
-Etudiant 2 : [TOMASZEWSKI--VILLALDEA MARTIN Maeva](mailto:login@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
-Etudiant 3 : [VADEBOIN Kylian](mailto:login@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
-Etudiant 4 : [SONET Noé](mailto:login@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
-Etudiant 5 : [SPRINGER Théo](mailto:login@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
+Etudiant 1 (référent du groupe) :  [RUYER Benjamin](mailto:benjamin.ruyer@edu.univ-fcomte.fr?subject=SAE_1_05_06_Groupe_18_Dassault_Systèmes) 
+Etudiant 2 : [TOMASZEWSKI--VILLALDEA MARTIN Maeva](mailto:maeva.tomaszewski--villaldea_martin@edu.univ-fcomte.fr?subject=SAE_1_05_06_Groupe_18_Dassault_Systèmes) 
+Etudiant 3 : [VADEBOIN Kylian](mailto:kylian.vadeboin@edu.univ-fcomte.fr?subject=SAE_1_05_06_Groupe_18_Dassault_Systèmes) 
+Etudiant 4 : [SONET Noé](mailto:noe.sonet@edu.univ-fcomte.fr?subject=SAE_1_05_06_Groupe_18_Dassault_Systèmes) 
+Etudiant 5 : [SPRINGER Théo](mailto:theo.springer@edu.univ-fcomte.fr?subject=SAE_1_05_06_Groupe_18_Dassault_Systèmes) 
 
 # Présentation du projet
 
-...... (5/6 lignes)
-
+Ce dépôt contient un site web réalisé en HTML, CSS et JS dans le cadre de la SAÉ 05-06 à l'IUT de Nord Franche-Comté. Ce site propose des informations sur l'entreprise Dassault Systèmes et sert de vitrine pour présenter ses activités, son organisation, son historique et ses caractéristiques. Vous trouverez dans ce dépôt, ainsi que sur le site, un rapport économique qui analyse l'aspect économique de Dassault Systèmes.
