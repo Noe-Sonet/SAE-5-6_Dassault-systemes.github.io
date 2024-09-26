@@ -49,6 +49,7 @@ body {
     .elem-list:hover {
         transform: scale(1.175);
     }
+}
 
 @media (max-width: 699px ) {
     main {
@@ -79,3 +80,4 @@ body {
         color: #F8FBF1;
         font-weight: bold;
     }
+}
