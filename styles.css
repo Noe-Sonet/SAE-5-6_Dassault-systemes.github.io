@@ -13,7 +13,7 @@ header {
 }
 
 body {
-    background-color: #ffffff;
+    background-color: #888888;
 }
 
 @media (min-width: 700px ) {
@@ -32,6 +32,7 @@ body {
     }
     #icon:hover {
         background-image: url("/SAE-5-6_Dassault-systemes.github.io/images/3ds_full_873x264.png");
+        background-size: auto 30px;
     }
     .list {
         display: flex;
@@ -71,6 +72,10 @@ body {
     #icon {
         height: 30px;
         width: auto;
+    }
+    #icon:hover {
+        background-image: url("/SAE-5-6_Dassault-systemes.github.io/images/3ds_full_873x264.png");
+        background-size: auto 30px;
     }
     .list {
         list-style: none;
