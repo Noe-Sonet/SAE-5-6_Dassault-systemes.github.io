@@ -75,7 +75,7 @@ body {
     }
     #icon:hover {
         background-image: url("/SAE-5-6_Dassault-systemes.github.io/images/3ds_full_873x264.png");
-        background-size: auto 30px;
+/*         background-size: XXX ; */
     }
     .list {
         list-style: none;
