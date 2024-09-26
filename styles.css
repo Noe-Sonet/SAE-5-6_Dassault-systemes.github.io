@@ -54,6 +54,9 @@ body {
         color:#005386; 
         font-size-adjust: 0.7;
     }
+    .active-page{
+        color: #212121;
+    }
 }
 
 @media (max-width: 699px ) {
@@ -88,5 +91,8 @@ body {
     }
     .links:hover{
         color:#005386; 
+    }
+    .active-page{
+        color: #212121;
     }
 }    
