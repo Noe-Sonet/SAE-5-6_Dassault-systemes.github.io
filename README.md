@@ -6,11 +6,11 @@
 
 ## Membres du groupe : 
 
-- Etudiant 1 (référent du groupe) :  [RUYER Benjamin](mailto:benjamin.ruyer@edu.univ-fcomte.fr?subject=SAE_1_05_06_Groupe_18_Dassault_Systèmes) 
-- Etudiant 2 : [TOMASZEWSKI--VILLALDEA MARTIN Maeva](mailto:maeva.tomaszewski--villaldea_martin@edu.univ-fcomte.fr?subject=SAE_1_05_06_Groupe_18_Dassault_Systèmes) 
-- Etudiant 3 : [VADEBOIN Kylian](mailto:kylian.vadeboin@edu.univ-fcomte.fr?subject=SAE_1_05_06_Groupe_18_Dassault_Systèmes) 
-- Etudiant 4 : [SONET Noé](mailto:noe.sonet@edu.univ-fcomte.fr?subject=SAE_1_05_06_Groupe_18_Dassault_Systèmes) 
-- Etudiant 5 : [SPRINGER Théo](mailto:theo.springer@edu.univ-fcomte.fr?subject=SAE_1_05_06_Groupe_18_Dassault_Systèmes) 
+- Etudiant 1 (référent du groupe) :  [RUYER Benjamin](mailto:benjamin.ruyer@edu.univ-fcomte.fr?subject=SAE_1_05_06_Groupe_18_Dassault_Systèmes)
+- Etudiant 2 : [SONET Noé](mailto:noe.sonet@edu.univ-fcomte.fr?subject=SAE_1_05_06_Groupe_18_Dassault_Systèmes) 
+- Etudiant 3 : [SPRINGER Théo](mailto:theo.springer@edu.univ-fcomte.fr?subject=SAE_1_05_06_Groupe_18_Dassault_Systèmes) 
+- Etudiant 4 : [TOMASZEWSKI--VILLALDEA MARTIN Maeva](mailto:maeva.tomaszewski--villaldea_martin@edu.univ-fcomte.fr?subject=SAE_1_05_06_Groupe_18_Dassault_Systèmes) 
+- Etudiant 5 : [VADEBOIN Kylian](mailto:kylian.vadeboin@edu.univ-fcomte.fr?subject=SAE_1_05_06_Groupe_18_Dassault_Systèmes) 
 
 # Présentation du projet
 
