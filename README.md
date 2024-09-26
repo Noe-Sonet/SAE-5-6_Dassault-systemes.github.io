@@ -2,7 +2,7 @@
 
 ## Dassault Systèmes 
 
-[Dassault-systemes](https://github.com/Noe-Sonet/Dassault-systemes/) 
+[SAE-5-6_Dassault-systemes](https://noe-sonet.github.io/SAE-5-6_Dassault-systemes.github.io/acceuil) 
 
 ## Membres du groupe : 
 
