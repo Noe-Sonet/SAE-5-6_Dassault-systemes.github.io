@@ -30,6 +30,9 @@ body {
         height: 30px;
         width: auto;
     }
+    #icon:hover{
+        scale: 1.225;
+    }
     .list {
         display: flex;
         flex-wrap: wrap;
@@ -47,11 +50,9 @@ body {
         font-weight: bold;
         transition: color 0.25s;
     }
-    .elem-list:hover {
-        transform: scale(1.175);
-    }
     .links:hover{
         color:#005386; 
+        font-size-adjust: 0.7;
     }
 }
 
