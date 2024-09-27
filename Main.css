@@ -31,7 +31,8 @@ body {
 .content img {
     width: 300px;
     height: 200px;
-    background-color: #ccc;
+    background-color: #ccc
+    padding: 50px;
 }
 .content-text {
     padding: 1em;
