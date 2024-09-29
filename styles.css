@@ -16,7 +16,7 @@ body {
     background-color: #5a5a5a;
 }
 
-@media (min-width: 700px ) {
+@media (min-width: 800px ) {
     main {
         padding: 20px 20px;
     }
@@ -55,11 +55,19 @@ body {
         font-size-adjust: 0.7;
     }
     .active-page{
-        color: #212121;
+        text-decoration: underline;
     }
+    .infos{
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        justify-content: space-between;
+        padding: 10px;
+    }
+
 }
 
-@media (max-width: 699px ) {
+@media (max-width: 799px ) {
     main {
         padding: 5px 5px 5px 5px;
     }
@@ -79,6 +87,7 @@ body {
     .elem-list {
         flex-basis: 20%;
         text-align: center;
+        margin: 5px;
     }
     .elem-list:hover {
         transform: scale(1.175);
@@ -93,6 +102,14 @@ body {
         color:#005386; 
     }
     .active-page{
-        color: #212121;
+        text-decoration: underline;
+    }
+    .infos{
+        list-style: none;
+        justify-content: space-between;
+        padding: 0px;
+    }
+    .elem_infos{
+        margin: 20px;
     }
 }    
