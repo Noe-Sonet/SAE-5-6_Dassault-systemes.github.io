@@ -12,7 +12,7 @@ header, footer {
     font-family: Tahoma, sans-serif;
 }
 
-@media (min-width: 800px ) {
+@media (min-width: 900px ) {
     header {
         position: fixed;
         z-index: 10;
@@ -85,7 +85,7 @@ header, footer {
     }
 }
 
-@media (max-width: 799px ) {
+@media (max-width: 899px ) {
     header {
         position: fixed;
         z-index: 10;
