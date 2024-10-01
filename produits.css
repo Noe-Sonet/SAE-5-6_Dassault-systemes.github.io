@@ -4,11 +4,6 @@ body {
     padding: 0;
     background-color: #FFFFFF;
 }
-.nav {
-    background-color: #f0f0f0;
-    padding: 1em;
-    text-align: center;
-}
 .first {
     position: relative;
     height: 300px;
@@ -40,9 +35,4 @@ body {
 }
 .content:nth-child(even) {
     flex-direction: row-reverse;
-}
-footer {
-    background-color: #f0f0f0;
-    padding: 1em;
-    text-align: center;
 }
