@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #FFFFFF;
+    background-color: #f0f0f0;
 }
 
 .presentation {
@@ -11,13 +11,11 @@ body {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-    text-size-adjust: auto;
     font-family: Tahoma ;
 }
 
 @media (min-width: 800px ) {
     .texte_presentation {
-        height: 620px;
         width: 40%;
         padding: 1%;
         color: #f0f0f0;
