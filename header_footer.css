@@ -100,7 +100,7 @@ footer {
         top: 0;
     }
     main {
-        padding: 216px 5px 5px 5px;
+        padding-top: 216px;
     }
     .nav-bar {
         display: flex;
