@@ -19,9 +19,7 @@ body {
     .texte_presentation {
         height: 620px;
         width: 40%;
-        padding-top: 1%;
-        padding-left: 1.2%;
-        padding-bottom: 1%;
+        padding: 1%;
         color: #f0f0f0;
         font-size: 260%;
     }
@@ -29,9 +27,7 @@ body {
 
 @media (max-width: 799px ) {
     .texte_presentation {
-        padding-top: 1%;
-        padding-left: 1.2%;
-        padding-bottom: 1%;
+        padding: 1%;
         color: #f0f0f0;
         font-size: 190%;
     }
