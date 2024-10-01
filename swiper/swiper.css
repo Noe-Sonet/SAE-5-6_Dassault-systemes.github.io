@@ -14,7 +14,7 @@
     object-fit: cover;
 }
 
-@media (min-width: 800px ) {
+@media (min-width: 900px ) {
     .swiper {
         width: 60%;
         height: 620px;
