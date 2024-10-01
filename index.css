@@ -14,7 +14,7 @@ body {
     flex-wrap: wrap;
 }
 
-@media (min-width: 800px ) {
+@media (min-width: 900px ) {
     .texte_presentation {
         width: 40%;
         padding: 1%;
@@ -23,7 +23,7 @@ body {
     }
 }
 
-@media (max-width: 799px ) {
+@media (max-width: 899px ) {
     .texte_presentation {
         padding: 1%;
         color: #f0f0f0;
