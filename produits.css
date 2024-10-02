@@ -1,33 +1,63 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #FFFFFF;
+    background-color: #f0f0f0;
+}
+.nav {
+    background-color: #f0f0f0;
+    padding: 1em;
+    text-align: center;
 }
 .first {
     position: relative;
-    height: 300px;
-    background-color: #ddd;
+    height: 500px;
     display: flex;
     align-items: center;
     justify-content: center;
+    background-image: url(https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/3d-design-software-1677590763763.png?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces);
+    background-size: 1578px 500px;
+    border-bottom: 1px black ridge;
 }
 .first-text {
     position: absolute;
     text-align: center;
     color: white;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.6);
     padding: 1em;
+    border-radius: 20px 20px 20px 20px;
 }
 .content {
     display: flex;
-    margin: 2em 0;
+    margin: 20px;
 }
 .content img {
-    width: 300px;
-    height: 200px;
-    background-color: #ccc
-    padding: 50px;
+    width: 400px;
+    height: 300px;
+    background-color: #ccc;
+    padding: 0;
+    border-radius: 30px;
+}
+.content-text {
+    padding: 2em;
+    flex: 1;
+}
+.content:nth-child(even) {
+    flex-direction: row-reverse;
+}
+footer {
+    background-color: #f0f0f0;
+    padding: 1em;
+    text-align: center;
+}
+
+@media (max-width: 799px) {
+    .first-text {
+        margin-top: 200px;
+    }
+    .first {
+        background-size: 660px 500px;
+    }
 }
 .content-text {
     padding: 1em;
