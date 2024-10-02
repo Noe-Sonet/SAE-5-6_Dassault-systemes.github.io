@@ -14,12 +14,31 @@ body {
     flex-wrap: wrap;
 }
 
+.page {
+    background-color: #005386;
+    height: 620px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top : 40px;
+}
+
+.lien_page{
+    color: #0077ff;
+    font-style:initial;
+    font-size: 80%;
+}
+
 @media (min-width: 900px ) {
     .texte_presentation {
         width: 40%;
         padding: 1%;
         color: #f0f0f0;
         font-size: 260%;
+    }
+    .page_img {
+        width: 60%;
+        object-fit: cover;
     }
 }
 
@@ -29,4 +48,9 @@ body {
         color: #f0f0f0;
         font-size: 190%;
     }
+    .page_img {
+        width: 100%;
+        object-fit: cover;
+    }
+
 }
