@@ -4,11 +4,13 @@ body {
     padding: 0;
     background-color: #f0f0f0;
 }
+
 .nav {
     background-color: #f0f0f0;
     padding: 1em;
     text-align: center;
 }
+
 .first {
     position: relative;
     height: 500px;
@@ -19,6 +21,7 @@ body {
     background-size: 1578px 500px;
     border-bottom: 1px black ridge;
 }
+
 .first-text {
     position: absolute;
     text-align: center;
@@ -26,27 +29,39 @@ body {
     background-color: rgba(0, 0, 0, 0.6);
     padding: 1em;
 }
+
 .content {
     display: flex;
     margin: 20px;
 }
+
 .content img {
     width: 400px;
     height: 300px;
     background-color: #ccc;
     padding: 0;
 }
+
 .content-text {
     padding: 2em;
     flex: 1;
 }
+
 .content:nth-child(even) {
     flex-direction: row-reverse;
 }
+
 footer {
     background-color: #f0f0f0;
     padding: 1em;
     text-align: center;
+}
+
+.margin_page {
+    padding-top: 40px;
+    width: 100%;
+    border-top: 1px solid #242424;
+    border-bottom: 1px solid #242424;
 }
 
 @media (max-width: 799px) {
