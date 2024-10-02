@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-header, footer {
+header {
     background-color: #f0f0f0;
     border-bottom: 1px solid #242424;
     padding: 15px;
