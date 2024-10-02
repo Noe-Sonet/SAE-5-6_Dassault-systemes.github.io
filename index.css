@@ -27,7 +27,13 @@ body {
 .lien_page {
     color: #0077ff;
     font-style:initial;
-    font-size: 80%;
+    font-size: 70%;
+    font-style:italic
+}
+
+.point {
+    color: #0077ff;
+    font-size: 70%;
 }
 
 .margin_page {
