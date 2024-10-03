@@ -15,7 +15,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url();
+    background-image: url(../SAE-5-6_Dassault-systemes.github.io/images/eco_img/illustration_eco.jpeg);
     border-bottom: 1px black solid;
 }
 .first-text {
