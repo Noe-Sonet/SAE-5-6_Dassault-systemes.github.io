@@ -15,7 +15,9 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url();
+    background-image: url("https://www.esante.tech/wp-content/uploads/2019/11/Dassault-systemes-medidata.jpg");
+    background-position: top -100px center;
+    background-size: cover;
     border-bottom: 1px black solid;
 }
 .first-text {
@@ -33,6 +35,7 @@ body {
     width: 60%;
     background-color: #ccc;
     padding: 0;
+    object-fit: cover;
 }
 .content-text {
     width: 40%;
@@ -40,6 +43,9 @@ body {
     flex: 1;
     background-color: #005386;
     color: #f0f0f0;
+}
+.content-text p {
+    text-align: justify;
 }
 .content:nth-child(even) {
     flex-direction: row-reverse;
