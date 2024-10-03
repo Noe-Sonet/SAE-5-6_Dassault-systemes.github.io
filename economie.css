@@ -41,6 +41,10 @@ body {
     background-color: #005386;
     color: #f0f0f0;
 }
+li {
+    padding: 1em;
+    font-size: large;
+}
 .content:nth-child(even) {
     flex-direction: row-reverse;
 }
