@@ -34,10 +34,11 @@ body {
 
 .content {
     display: flex;
+    height: 400px;
 }
 
 .content img {
-    width: 60%;
+    width: 50%;
     background-color: #ccc;
     padding: 0;
 }
@@ -47,7 +48,9 @@ body {
     flex: 1;
     background-color: #005386;
     color: #f0f0f0;
-    width: 40%;
+    width: 40%; 
+    text-align: justify;
+    line-height: 30px;
 }
 
 .content:nth-child(even) {
