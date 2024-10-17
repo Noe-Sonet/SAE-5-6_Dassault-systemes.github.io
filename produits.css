@@ -49,6 +49,14 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
+.content-text h2 {
+    font-family: "Gabarito", sans-serif;
+}
+
+.content-text p {
+    font-family: "Open Sans", sans-serif;
+}
+
 .content:nth-child(even) {
     flex-direction: row-reverse;
 }
