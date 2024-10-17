@@ -20,17 +20,51 @@ Ce dépôt contient un site web réalisé en HTML, CSS et JS dans le cadre de la
 
 ### Page d'accueil
 
-**Auteur : Ruyer Benjamin**
+**Auteur : RUYER Benjamin**
 
-### Présentation générale
-
-**Auteur : Nom Prénom**  
-
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
-
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnoe-sonet.github.io%2FSAE-5-6_Dassault-systemes.github.io%2Findex.html)
 <br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur ecoconcept">
+<img src="doc/capture_1_W3C.png" width="400px" alt="Validation W3 Page d'accueil">
+<br>
+<img src="doc/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
 
+### Page sur l'économie
+
+**Auteur : SPRINGER Théo**
+
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnoe-sonet.github.io%2FSAE-5-6_Dassault-systemes.github.io%2Feconomie.html)
+<br>
+<img src="doc/capture_1_W3C.png" width="400px" alt="Validation W3 Page d'accueil">
+<br>
+<img src="doc/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
+
+### Page sur l'écologie
+
+**Auteur : SONET Noé**
+
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnoe-sonet.github.io%2FSAE-5-6_Dassault-systemes.github.io%2Fecologie.html)
+<br>
+<img src="doc/capture_1_W3C.png" width="400px" alt="Validation W3 Page d'accueil">
+<br>
+<img src="doc/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
+
+### Page présentatrice des produits
+
+**Auteur : TOMASZEWSKI--VILLALDEA MARTIN Maeva**
+
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnoe-sonet.github.io%2FSAE-5-6_Dassault-systemes.github.io%2Fproduits.html)
+<br>
+<img src="doc/capture_1_W3C.png" width="400px" alt="Validation W3 Page d'accueil">
+<br>
+<img src="doc/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
+
+### Page présentatrice de l'histoire
+
+**Auteur : VADEBOIN Kylian** 
+
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnoe-sonet.github.io%2FSAE-5-6_Dassault-systemes.github.io%2Fhistoire.html)
+<br>
+<img src="doc/capture_1_W3C.png" width="400px" alt="Validation W3 Page d'accueil">
 <br>
 <img src="doc/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
 
