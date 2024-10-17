@@ -24,6 +24,7 @@ body {
     padding: 2em;
     margin-left: 200px;
     margin-right: 200px;
+    font-family: "Gabarito", sans-serif;
 }
 
 .content {
@@ -45,6 +46,7 @@ body {
     width: 40%; 
     text-align: justify;
     line-height: 30px;
+    font-family: "Open Sans", sans-serif;
 }
 
 .content:nth-child(even) {
