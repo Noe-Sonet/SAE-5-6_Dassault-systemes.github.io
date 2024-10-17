@@ -13,6 +13,11 @@ body {
     display: flex;
     flex-wrap: wrap;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-family: "Gabarito", sans-serif;
+}
+
+.texte_presentation b{
+    font-family: "Gabarito", sans-serif;
 }
 
 .page {
@@ -21,6 +26,7 @@ body {
     width: 100%;
     display: flex;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-family: "Open Sans", sans-serif;
 }
 
 .lien_page {
