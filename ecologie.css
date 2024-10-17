@@ -1,4 +1,4 @@
-/* Styles généraux */
+
 body {
     font-family: Tahoma, Arial, sans-serif;
     margin: 0;
@@ -7,8 +7,8 @@ body {
     line-height: 1.6;
 }
 
-/* Style de la section héro */
-.hero {
+
+.general {
     position: relative;
     height: 300px;
     background-image: url('images/imgs_ecologie/image2.jpg');
@@ -19,30 +19,27 @@ body {
     justify-content: center;
 }
 
-.content text p{
-    margin-left: 450px;   /*a modifier */
-}
 
-.hero-text {
+.texte {
     font-size: 2.5em;
     text-align: center;
+    border-radius: 20px;
     color: white;
     background-color: rgba(0, 0, 0, 0.5);
-    padding: 0.5em;
-    margin: 0;
+    padding: 5px;
 }
 
-/* Style de la section de contenu */
+
 .content-section {
     max-width: 1900px;
     margin: 0 auto;
-    padding: 1em; /* Réduction du padding pour réduire les bordures blanches */
+    padding: 1em; 
 }
 
-/* Style des éléments de contenu */
+
 .content {
     display: flex;
-    margin: 1em 0; /* Réduction de la marge pour réduire les bordures blanches */
+    margin: 1em 0;
     align-items: center;
     background-color: #005386;
     border-radius: 8px;
@@ -50,19 +47,20 @@ body {
 }
 
 .content img {
-    max-width: 50%;
+    max-height: 420px;
+    max-width: 45%;
     height: auto;
     object-fit: cover;
 }
 
 .content-text {
     flex: 1;
-    padding: 2.5em; /* Réduction du padding pour réduire l'espace interne */
+    padding: 2.5em; 
     color: #f0f0f0;
 }
 
 .content-text h2 {
-    font-size: 1.8em;
+    font-size: 24px;
     margin-top: 0;
 }
 
@@ -70,8 +68,7 @@ body {
     padding-left: 1.5em;
 }
 
-/* Inversion de l'ordre des éléments pour les contenus pairs */
-.content:nth-child(even) {
+.content-reverse {
     flex-direction: row-reverse;
 }
 .point {
@@ -85,8 +82,17 @@ body {
     font-style:italic
 }
 
-/* Styles responsifs pour les petits écrans */
-@media (max-width: 768px) {
+.carte_footer{
+    margin: 20px 0;
+    text-align: right;
+    margin-right: 40px;
+    margin-top: -250px;
+    
+}
+
+
+
+@media (max-width: 760px) {
     .content {
         flex-direction: column;
     }
@@ -94,22 +100,22 @@ body {
     .content img {
         max-width: 100%;
     }
-
-    .content:nth-child(even) {
-        flex-direction: column;
+    .content-reverse {
+        flex-direction: row-reverse;
     }
+
 }
 
-/* Espace entre les sections de contenu */
+
 .margin_page {
-    padding-top: 20px; /* Réduction du padding pour réduire l'espace */
+    padding-top: 20px; 
     width: 140%;
 }
 
-/* Styles du pied de page */
+
 footer {
     background-color: #f0f0f0;
-    color: #005386; /* Assurez-vous que cette couleur contraste bien avec le fond */
+    color: #005386; 
     padding: 2em 1em;
 }
 
@@ -129,11 +135,11 @@ footer {
 .elem_infos b {
     display: block;
     margin-bottom: 0.5em;
-    color: #005386; /* Assurez-vous que le texte en gras est bien visible */
+    color: #005386; 
 }
 
 .elem_infos, .elem_infos a {
-    color: #005386; /* Changez cette couleur pour assurer la visibilité du texte */
+    color: #005386; 
     text-decoration: none;
 }
 
@@ -147,5 +153,6 @@ footer {
     text-align: center;
     margin-top: 1em;
     font-style: italic;
-    color: #005386; /* Assurez-vous que ce texte est également visible */
+    color: #005386; 
 }
+
