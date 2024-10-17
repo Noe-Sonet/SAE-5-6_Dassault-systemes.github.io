@@ -15,7 +15,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(../images/eco_img/illustration_eco.jpeg);
+    background-image: url(images/eco_img/illustration_eco.jpeg);
     border-bottom: 1px black solid;
 }
 .first-text {
