@@ -69,6 +69,14 @@ h2 {
     font-family: 'Gabarito';
 }
 
+.carte_footer{
+    margin: 20px 0;
+    text-align: right;
+    margin-right: 40px;
+    margin-top: -250px;
+    
+}
+
 @media (min-width: 900px ) {
     .presentation_valeurs {
         background-color: #005386;
