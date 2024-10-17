@@ -46,7 +46,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 <br>
 <img src="doc/capture_1_W3C.png" width="400px" alt="Validation W3 Page d'accueil">
 <br>
-<img src="capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
+<img src="images/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
 
 ### Page présentatrice des produits
 
