@@ -47,7 +47,7 @@ body {
 p {
     padding: 1em;
     font-size: large;
-    font-family: 'Open sans';
+    font-family: "Open Sans", sans-serif;
 }
 .content:nth-child(even) {
     flex-direction: row-reverse;
@@ -66,7 +66,7 @@ footer {
 }
 
 h2 {
-    font-family: 'Gabarito';
+    font-family: "Gabarito", sans-serif;
 }
 
 @media (min-width: 900px ) {
