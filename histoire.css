@@ -4,11 +4,6 @@ body {
     padding: 0;
     background-color: #f0f0f0;
 }
-.nav {
-    background-color: #f0f0f0;
-    padding: 1em;
-    text-align: center;
-}
 .first {
     position: relative;
     height: 500px;
@@ -49,11 +44,6 @@ body {
 }
 .content:nth-child(even) {
     flex-direction: row-reverse;
-}
-footer {
-    background-color: #f0f0f0;
-    padding: 1em;
-    text-align: center;
 }
 
 .margin_page {
