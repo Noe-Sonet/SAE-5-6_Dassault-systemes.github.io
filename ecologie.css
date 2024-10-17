@@ -19,7 +19,7 @@ body {
 .general {
     position: relative;
     height: 300px;
-    background-image: url('images/imgs_ecologie/image2.jpg');
+    background-image: url('images/ecologie/image2.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -157,7 +157,6 @@ footer {
 .creation_page {
     text-align: center;
     margin-top: 1em;
-    font-style: italic;
     color: #005386; 
 }
 
