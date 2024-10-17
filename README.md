@@ -105,5 +105,6 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
   - Page Histoire
   
 ## Contributeurs
-![image](https://github.com/user-attachments/assets/7a8a6d4a-9446-42e5-b3f7-197f8ea133e6)
+![image](![image](https://github.com/user-attachments/assets/8a6a7090-74b3-4000-a78c-5ce369734ff4)
+)
 
