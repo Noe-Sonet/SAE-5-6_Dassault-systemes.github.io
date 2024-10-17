@@ -26,7 +26,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 <br>
 <img src="doc/capture_1_W3C.png" width="400px" alt="Validation W3 Page d'accueil">
 <br>
-<img src="doc/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
+<img src="images/capture_1_ecoconcept_index.png" width="400px" alt="capture ecran sur ecoconcept">
 
 ### Page sur l'économie
 
@@ -36,7 +36,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 <br>
 <img src="doc/capture_1_W3C.png" width="400px" alt="Validation W3 Page d'accueil">
 <br>
-<img src="doc/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
+<img src="images/capture_1_ecoconcept_economie.png" width="400px" alt="capture ecran sur ecoconcept">
 
 ### Page sur l'écologie
 
@@ -46,7 +46,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 <br>
 <img src="doc/capture_1_W3C.png" width="400px" alt="Validation W3 Page d'accueil">
 <br>
-<img src="images/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
+<img src="images/capture_1_ecoconcept_ecologie.png" width="400px" alt="capture ecran sur ecoconcept">
 
 ### Page présentatrice des produits
 
@@ -56,7 +56,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 <br>
 <img src="doc/capture_1_W3C.png" width="400px" alt="Validation W3 Page d'accueil">
 <br>
-<img src="doc/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
+<img src="images/capture_1_ecoconcept_produits.png" width="400px" alt="capture ecran sur ecoconcept">
 
 ### Page présentatrice de l'histoire
 
@@ -66,7 +66,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 <br>
 <img src="doc/capture_1_W3C.png" width="400px" alt="Validation W3 Page d'accueil">
 <br>
-<img src="doc/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
+<img src="images/capture_1_ecoconcept_histoire.png" width="400px" alt="capture ecran sur ecoconcept">
 
 ## Répartition du travail
 
