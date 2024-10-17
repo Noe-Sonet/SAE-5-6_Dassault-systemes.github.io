@@ -3,6 +3,15 @@
     padding: 1em;
     text-align: center;
 } */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    font-family: Tahoma, sans-serif;
+}
+
 .first {
     position: relative;
     height: 500px;
@@ -60,18 +69,102 @@ h2 {
     font-family: 'Gabarito';
 }
 
-@media (max-width: 799px) {
-    .first-text {
-        margin-top: 200px;
+@media (min-width: 900px ) {
+    .presentation_valeurs {
+        background-color: #005386;
+        color: #f0f0f0;
+        padding-top: 30px;
+        padding-bottom: 18px;
+        width: 100%;
+        text-align: center;
+        font-size: 260%;
+        font-weight: bold;
     }
-    .first {
-        background-size: 660px 500px;
+    
+    .tab_valeurs {
+        background-color: #005386;
+        height: 148px;
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        list-style: none;
+    }
+    
+    .case_valeur {
+        color: #f0f0f0;
+        padding-top: 22px;
+        height: 180px;
+        width: 400px;
+        text-align: center;
+        font-size: 200%;
+    }
+
+    .texte_presentation_main {
+        width: 40%;
+        padding: 1%;
+        color: #f0f0f0;
+        font-size: 260%;
+    }
+
+    .texte_presentation {
+        width: 50%;
+        padding: 1%;
+        color: #f0f0f0;
+        font-size: 260%;
+    }
+
+    .page_img {
+        width: 50%;
+        object-fit: cover;
     }
 }
-.content-text {
-    padding: 1em;
-    flex: 1;
-}
-.content:nth-child(even) {
-    flex-direction: row-reverse;
+
+@media (max-width: 899px ) {
+    .presentation_valeurs {
+        background-color: #005386;
+        color: #f0f0f0;
+        padding-top: 15px;
+        padding-bottom: 9px;
+        width: 100%;
+        text-align: center;
+        font-size: 190%;
+        font-weight: bold;
+    }
+
+    .tab_valeurs {
+        background-color: #005386;
+        height: 148px;
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        list-style: none;
+    }
+
+    .case_valeur {
+        color: #f0f0f0;
+        height: 180px;
+        width: 400px;
+        text-align: center;
+        font-size: 130%;
+        padding: 2%;
+    }
+
+    .texte_presentation_main {
+        padding: 1%;
+        color: #f0f0f0;
+        font-size: 190%;
+    }
+
+    .texte_presentation {
+        padding: 1%;
+        color: #f0f0f0;
+        font-size: 190%;
+    }
+
+    .page_img {
+        width: 100%;
+        object-fit: cover;
+    }
 }
