@@ -82,16 +82,6 @@ body {
     font-style:italic
 }
 
-.carte_footer{
-    margin: 20px 0;
-    text-align: right;
-    margin-right: 40px;
-    margin-top: -250px;
-    
-}
-
-
-
 @media (max-width: 760px) {
     .content {
         flex-direction: column;
