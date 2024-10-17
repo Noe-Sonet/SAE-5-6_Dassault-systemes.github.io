@@ -20,6 +20,13 @@ footer {
     font-family: Tahoma, sans-serif;
 }
 
+.carte_footer{
+    margin: 0 20px ;
+    text-align: left;
+    margin-right: 40px;
+    margin-top: -200px;
+}
+
 @media (min-width: 900px ) {
     header {
         position: fixed;
