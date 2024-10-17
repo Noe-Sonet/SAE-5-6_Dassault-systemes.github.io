@@ -44,6 +44,7 @@ body {
 li {
     padding: 1em;
     font-size: large;
+    font-family: 'Open sans';
 }
 .content:nth-child(even) {
     flex-direction: row-reverse;
@@ -59,6 +60,10 @@ footer {
     width: 100%;
     border-top: 1px solid #242424;
     border-bottom: 1px solid #242424;
+}
+
+h2 {
+    font-family: 'Gabarito';
 }
 
 @media (max-width: 799px) {
