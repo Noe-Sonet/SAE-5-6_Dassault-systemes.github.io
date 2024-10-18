@@ -36,16 +36,20 @@ body {
     padding: 5px;
 }
 
+.margin_page {
+    padding-top: 35px;
+    width: 100%;
+    border-top: 1px solid #242424;
+    border-bottom: 1px solid #242424;
+}
 
 .content-section {
     width: 100%;
     margin: 0 auto;
 }
 
-
 .content {
     display: flex;
-    margin: 2em 0;
     align-items: center;
     background-color: #005386;
 }
@@ -87,15 +91,6 @@ body {
     font-style:italic
 }
 
-.carte_footer{
-    margin: 0 20px ;
-    text-align: left;
-    margin-right: 40px;
-    margin-top: -200px;
-    
-}
-
-
 
 @media (max-width: 760px) {
     .content {
@@ -109,54 +104,5 @@ body {
         flex-direction: row-reverse;
     }
 
-}
-
-
-.margin_page {
-    padding-top: 20px; 
-    width: 140%;
-}
-
-
-footer {
-    background-color: #f0f0f0;
-    color: #005386; 
-    padding: 2em 1em;
-}
-
-.infos {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    list-style-type: none;
-    padding: 0;
-}
-
-.elem_infos {
-    max-width: 300px;
-    
-}
-
-.elem_infos b {
-    display: block;
-    margin-bottom: 0.5em;
-    color: #005386; 
-}
-
-.elem_infos, .elem_infos a {
-    color: #005386; 
-    text-decoration: none;
-}
-
-.elem_infos img {
-    max-width: 60%;
-    height: auto;
-    margin-top: 1em;
-}
-
-.creation_page {
-    text-align: center;
-    margin-top: 1em;
-    color: #005386; 
 }
 
