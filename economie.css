@@ -1,5 +1,9 @@
+h1, h2, h3 {
+    font-family: Gabarito, sans-serif;
+}
+
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Open Sans, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f0f0f0;
@@ -41,7 +45,6 @@ body {
 p {
     padding: 1em;
     font-size: large;
-    font-family: "Open Sans", sans-serif;
 }
 .content:nth-child(even) {
     flex-direction: row-reverse;
@@ -52,10 +55,6 @@ p {
     width: 100%;
     border-top: 1px solid #242424;
     border-bottom: 1px solid #242424;
-}
-
-h2 {
-    font-family: "Gabarito", sans-serif;
 }
 
 @media (min-width: 900px ) {
