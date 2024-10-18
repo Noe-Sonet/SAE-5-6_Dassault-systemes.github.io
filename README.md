@@ -24,9 +24,9 @@ Ce dépôt contient un site web réalisé en HTML, CSS et JS dans le cadre de la
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnoe-sonet.github.io%2FSAE-5-6_Dassault-systemes.github.io%2Findex.html)
 <br>
-<img src="images_readme/W3C_Verif_3ds_SAE-5-&-6/W3C_Verif_3ds_SAE-5-&-6_index.jpg" width="400px" alt="Validation W3 Page d'accueil">
+<img src="images_readme/W3C_Verif_3ds_SAE-5-&-6/W3C_Verif_3ds_SAE-5-&-6_index.jpg" width="800px" alt="Validation W3 Page d'accueil">
 <br>
-<img src="images_readme/Eco_Verif_3ds_SAE-5-&-6/Eco_Verif_3ds_SAE-5-&-6_index.jpg" width="400px" alt="Validation Eco-Index Page index">
+<img src="images_readme/Eco_Verif_3ds_SAE-5-&-6/Eco_Verif_3ds_SAE-5-&-6_index.jpg" width="800px" alt="Validation Eco-Index Page index">
 
 ### Page sur l'économie
 
@@ -34,9 +34,9 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnoe-sonet.github.io%2FSAE-5-6_Dassault-systemes.github.io%2Feconomie.html)
 <br>
-<img src="images_readme/W3C_Verif_3ds_SAE-5-&-6/W3C_Verif_3ds_SAE-5-&-6_economie.jpg" width="400px" alt="Validation W3 Page economie">
+<img src="images_readme/W3C_Verif_3ds_SAE-5-&-6/W3C_Verif_3ds_SAE-5-&-6_economie.jpg" width="800px" alt="Validation W3 Page economie">
 <br>
-<img src="images_readme/Eco_Verif_3ds_SAE-5-&-6/Eco_Verif_3ds_SAE-5-&-6_economie.jpg" width="400px" alt="Validation Eco-Index Page economie">
+<img src="images_readme/Eco_Verif_3ds_SAE-5-&-6/Eco_Verif_3ds_SAE-5-&-6_economie.jpg" width="800px" alt="Validation Eco-Index Page economie">
 
 ### Page sur l'écologie
 
@@ -44,9 +44,9 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnoe-sonet.github.io%2FSAE-5-6_Dassault-systemes.github.io%2Fecologie.html)
 <br>
-<img src="images_readme/W3C_Verif_3ds_SAE-5-&-6/W3C_Verif_3ds_SAE-5-&-6_ecologie.jpg" width="400px" alt="Validation W3 Page ecologie">
+<img src="images_readme/W3C_Verif_3ds_SAE-5-&-6/W3C_Verif_3ds_SAE-5-&-6_ecologie.jpg" width="800px" alt="Validation W3 Page ecologie">
 <br>
-<img src="images_readme/Eco_Verif_3ds_SAE-5-&-6/Eco_Verif_3ds_SAE-5-&-6_ecologie.jpg" width="400px" alt="Validation Eco-Index Page ecologie">
+<img src="images_readme/Eco_Verif_3ds_SAE-5-&-6/Eco_Verif_3ds_SAE-5-&-6_ecologie.jpg" width="800px" alt="Validation Eco-Index Page ecologie">
 
 ### Page présentatrice des produits
 
@@ -54,9 +54,9 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnoe-sonet.github.io%2FSAE-5-6_Dassault-systemes.github.io%2Fproduits.html)
 <br>
-<img src="images_readme/W3C_Verif_3ds_SAE-5-&-6/W3C_Verif_3ds_SAE-5-&-6_produits.jpg" width="400px" alt="Validation W3 Page produits">
+<img src="images_readme/W3C_Verif_3ds_SAE-5-&-6/W3C_Verif_3ds_SAE-5-&-6_produits.jpg" width="800px" alt="Validation W3 Page produits">
 <br>
-<img src="images_readme/Eco_Verif_3ds_SAE-5-&-6/Eco_Verif_3ds_SAE-5-&-6_produits.jpg" width="400px" alt="Validation Eco-Index Page produits">
+<img src="images_readme/Eco_Verif_3ds_SAE-5-&-6/Eco_Verif_3ds_SAE-5-&-6_produits.jpg" width="800px" alt="Validation Eco-Index Page produits">
 
 ### Page présentatrice de l'histoire
 
@@ -64,9 +64,9 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnoe-sonet.github.io%2FSAE-5-6_Dassault-systemes.github.io%2Fhistoire.html)
 <br>
-<img src="images_readme/W3C_Verif_3ds_SAE-5-&-6/W3C_Verif_3ds_SAE-5-&-6_histoire.jpg" width="400px" alt="Validation W3 Page histoire">
+<img src="images_readme/W3C_Verif_3ds_SAE-5-&-6/W3C_Verif_3ds_SAE-5-&-6_histoire.jpg" width="800px" alt="Validation W3 Page histoire">
 <br>
-<img src="images_readme/Eco_Verif_3ds_SAE-5-&-6/Eco_Verif_3ds_SAE-5-&-6_histoire.jpg" width="400px" alt="Validation Eco-Index Page histoire">
+<img src="images_readme/Eco_Verif_3ds_SAE-5-&-6/Eco_Verif_3ds_SAE-5-&-6_histoire.jpg" width="800px" alt="Validation Eco-Index Page histoire">
 
 ## Répartition du travail
 
@@ -105,6 +105,6 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
   - Page Histoire
   
 ## Contributeurs
-![image](https://github.com/user-attachments/assets/8a6a7090-74b3-4000-a78c-5ce369734ff4)
+<img src="images_readme/Contribution/Contribution_summary.jpg" width="800px" alt="Validation W3 Page histoire">
 
 
