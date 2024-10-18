@@ -11,6 +11,8 @@ body {
     align-items: center;
     justify-content: center;
     background-image: url(images/economie/illustration_eco.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .first-text {
     position: absolute;
